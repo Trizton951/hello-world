@@ -1,2 +1,2 @@
 # hello-world
-This will be my first repository on github, gotta start somewhere right?
+Why am I writing this at 11 PM?
